@@ -8,11 +8,11 @@ By definition, the glass ceiling represents an obstacle for women to be present 
 ## Overview: 
 
 ## Process
-* Data Selection
-* Data Cleaning
-* Data Selection
-* Data Visualization
-* Conclusions
+* [Data Selection](https://github.com/wer1ix/glassCeiling/tree/main/Data)
+* [Data Cleaning](https://github.com/wer1ix/glassCeiling/tree/main/Data_Cleaning_Process)
+* [Data Selection](https://github.com/wer1ix/glassCeiling/tree/main/Documentation)
+* [Data Visualization](https://github.com/wer1ix/glassCeiling/blob/main/Documentation/GlassCeiling_LabourPOV.ipynb)
+* [Conclusions](https://github.com/wer1ix/glassCeiling/blob/main/Documentation/GlassCeiling_LabourPOV.ipynb)
 
 ## Table of Contents
 <ul>
