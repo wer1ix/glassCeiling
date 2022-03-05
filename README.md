@@ -35,3 +35,5 @@ By definition, the glass ceiling represents an obstacle for women to be present 
 </ul>
 
 ## Further steps
+
+## Conclusions
